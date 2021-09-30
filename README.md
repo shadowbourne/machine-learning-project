@@ -1,4 +1,7 @@
 # machine-learning-project
+Submitted as part of the degree of Msci Natural Sciences (2nd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
+This summative assignment was assessed and marked by the professor of the module in question:
+## Grade: 1st - 92/100
 A brief project and report on using the OULAD data set to predict and return a CSV of students final grades, from a variety of features, using a Random Forest or an SVC.
 
 See classifier.py for full readme and instructions.
